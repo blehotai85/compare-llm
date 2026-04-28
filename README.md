@@ -107,7 +107,7 @@ A szöveges válaszokból látható, hogy a modellek hasonló megközelítésű 
 |--|--|--|--|
 | 1 | [chatgpt-1.py](chatgpt-1.py) ✅✅ | [qwen3-coder-1.py](qwen3-coder-1.py) ✅✅ | [gemma4-1.py](gemma4-1.py) ⛔ |
 | 2 | [chatgpt-2.py](chatgpt-2.py) ✅✅ | [qwen3-coder-2.py](qwen3-coder-2.py) ✅✅ | [gemma4-2.py](gemma4-2.py) ⛔ |
-| 3 | [chatgpt-3.py](chatgpt-3.p ) ✅✅ | [qwen3-coder-3.py](qwen3-coder-3.py) ✅✅ | [gemma4-3.py](gemma4-3.py) ⛔ |
+| 3 | [chatgpt-3.py](chatgpt-3.py) ✅✅ | [qwen3-coder-3.py](qwen3-coder-3.py) ✅✅ | [gemma4-3.py](gemma4-3.py) ⛔ |
 | 4 | [chatgpt-4.py](chatgpt-4.py) ✅✅ | [qwen3-coder-4.py](qwen3-coder-4.py) ✅✅ | [gemma4-4.py](gemma4-4.py) ✅✅ |
 | 5 | [chatgpt-5.py](chatgpt-5.py) ✅✅ | [qwen3-coder-5.py](qwen3-coder-5.py) ✅✅ | [gemma4-5.py](gemma4-5.py) ⛔ |
 
