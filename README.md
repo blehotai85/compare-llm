@@ -1,5 +1,5 @@
 # Mesterséges  Intelligencia  használata  az  oktatásban
-Beadandó  dolgozat | Debrecen, 2026. 04. 28 | Lehotai Balázs, BV87ED
+Beadandó  dolgozat | Debrecen, 2026. 04. 28 | Lehotai Balázs
 
 ## Feladat: 
 A mai oktatásban hasznos segítség lehet a mesterséges intelligencia a fealdatok generálásánál, azonban meg kell tudnunk mondani, hogy egy LLM által generált feladat nehézsége, megfogalmazása és minősége megfelel-e az adott csoport tudásszintjének és az általunk, mint oktató által megfogalmazott követelményeknek.
