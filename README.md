@@ -105,11 +105,11 @@ A szöveges válaszokból látható, hogy a modellek hasonló megközelítésű 
 
 |Futtatható?  | OpenAI gpt-5.3 | qwen3-coder:30b | gemma4:e2b |
 |--|--|--|--|
-| 1 | ✅✅ | ✅✅ | ⛔ |
-| 2 | ✅✅ | ✅✅ | ⛔ |
-| 3 | ✅✅ | ✅✅ | ⛔ |
-| 4 | ✅✅ | ✅✅ | ✅✅ |
-| 5 | ✅✅ | ✅✅ | ⛔ |
+| 1 | [chatgpt-1.py](chatgpt-1.py) ✅✅ | [qwen3-coder-1.py](qwen3-coder-1.py) ✅✅ | [gemma4-1.py](gemma4-1.py) ⛔ |
+| 2 | [chatgpt-2.py](chatgpt-2.py) ✅✅ | [qwen3-coder-2.py](qwen3-coder-2.py) ✅✅ | [gemma4-2.py](gemma4-2.py) ⛔ |
+| 3 | [chatgpt-3.py](chatgpt-3.p ) ✅✅ | [qwen3-coder-3.py](qwen3-coder-3.py) ✅✅ | [gemma4-3.py](gemma4-3.py) ⛔ |
+| 4 | [chatgpt-4.py](chatgpt-4.py) ✅✅ | [qwen3-coder-4.py](qwen3-coder-4.py) ✅✅ | [gemma4-4.py](gemma4-4.py) ✅✅ |
+| 5 | [chatgpt-5.py](chatgpt-5.py) ✅✅ | [qwen3-coder-5.py](qwen3-coder-5.py) ✅✅ | [gemma4-5.py](gemma4-5.py) ⛔ |
 
 A gemma kódja nem python szintaxist használ az értékadásra, illetve nem konzekvens a változónevekkel néhány helyen.
 
